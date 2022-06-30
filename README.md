@@ -27,7 +27,7 @@ A simple TicTacToe Cli driven program using java.
 #### For saving and loading your game: 
 
 Go to files class and change this line to your preferred directory
-![Project Image](https://500px.com/photo/1050301743/something-by-AmirAli--Seyedzadegan)
+![Project Image](https://github.com/L000Pz/TicTacToe/blob/main/carbon.png)
 
 [Back To The Top](#tictactoe)
 
