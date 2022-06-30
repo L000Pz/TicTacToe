@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# TicTacToe
 
 > This is a simple TicTacToe game in java.
 
@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 
 A simple TicTacToe Cli driven program using java.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#tictactoe)
 
 ---
 
@@ -29,7 +29,7 @@ A simple TicTacToe Cli driven program using java.
 Go to files class and change this line to your preferred directory
 ![Project Image](https://500px.com/photo/1050301743/something-by-AmirAli--Seyedzadegan)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#tictactoe)
 
 ---
 
@@ -43,7 +43,7 @@ You can save your game at any time using /save command. After that it will give 
 
 For loading a saved game you can use the /load command followed by your save name.(You'll get the save name after each save!)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#tictactoe)
 
 ---
 
@@ -56,4 +56,4 @@ I would appreciate your comments on the code. I'm an amateur programmer and open
 - Twitter - [@L00Pz_](https://twitter.com/L00Pz_)
 - Telegram - [@L00Pz](https://t.me/L00Pz)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#tictactoe)
